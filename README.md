@@ -16,7 +16,7 @@ I’m **Keisuke Aiko**, my current goal is to utilize the knowledge I gained in 
 I am studying computer science on an online learning site called **Recursion**. The following are the areas I have completed so far. There is still so much more to learn...
 | Category | Badge | Highlights |
 | --- | --- | --- |
-| **Foundations** | 🟪beginner •🟩intermediate •🟦advanced | data, primitives, variables, functions, abstraction, recursion, scope, control flow, objects, lists, data structures, tree structures, lambda functions, software testing. |
+| **Foundations** | 🟪 beginner 🟩 intermediate 🟦 advanced | data, primitives, variables, functions, abstraction, recursion, scope, control flow, objects, lists, data structures, tree structures, lambda functions, software testing. |
 | **Core CS** | 🟥 OOP • 🟦 データベース | SOLID principles, SQL, ER‑modeling |
 | **Design** | 🟧 デザインパターン | Creational, Structural, Behavioral patterns |
 | **Web Basics** | 🟦 HTML & CSS | Responsive layouts, Flexbox, Grid |
