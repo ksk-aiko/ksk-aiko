@@ -1,14 +1,14 @@
 
 ## Hi there 👋
 
-I’m **Keisuke Aiko**, a former retail store manager turned aspiring software engineer based in Kumamoto, Japan. I love turning curiosity into code and building products that make everyday life a little easier.
+I’m **Keisuke Aiko**, my current goal is to utilize the knowledge I gained in the pet and gardening field while working in the retail industry to create software that contributes to a better society where animals and humans can coexist.
 
 ---
 
 ### 🚀 About Me
-- 🛍️ **Retail → Tech**: After 17 years in retail management, I’m channeling my problem‑solving skills into software development.
-- 🗓️ **Organized & Goal‑Driven**: I use behavior‑science frameworks (COM‑B, Fogg, EAST) to stay productive and keep learning.
-- 👨‍👧‍👦 **Family First**: Dad, lifelong learner, and believer in work‑life balance.
+- 🛍️ **From the Retail Industry to the IT Industry**: I have worked as a sales floor manager and supervisor in the retail industry for 18 years, and I am now pursuing a career as a software engineer to change long-standing practices and systems.
+- 🗓️ **Pets and Gardening**: I am passionate about leveraging my experience in the pet and gardening fields to help people, animals, and plants live better lives. 
+- 👨‍👧‍👦 **Diverse Interests**: Computer science, reading, gardening, video games, English conversation, fishing, weight training, running, and more.I am curious and interested in a wide range of topics.
 
 ---
 
