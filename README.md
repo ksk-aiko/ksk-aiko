@@ -17,9 +17,9 @@ I am studying computer science on an online learning site called **Recursion**. 
 | Category | Badge | Highlights |
 | --- | --- | --- |
 | **Foundations** | 🟪 beginner 🟩 intermediate 🟦 advanced | data, primitives, variables, functions, abstraction, recursion, scope, control flow, objects, lists, data structures, tree structures, lambda functions, software testing. |
-| **Core CS** | 🟥 OOP • 🟦 データベース | SOLID principles, SQL, ER‑modeling |
-| **Design** | 🟧 デザインパターン | Creational, Structural, Behavioral patterns |
-| **Web Basics** | 🟦 HTML & CSS | Responsive layouts, Flexbox, Grid |
+| **Core CS** | 🟥 OOP • 🟦 Database | Object-oriented design, association and inheritance, abstract classes and interfaces, database systems, relational models, SQL(DDL, DML) |
+| **Design** | 🟧 Design Pattern | Dependency, factory methods, abstract factories, builders, prototypes |
+| **Web Basics** | 🟦 HTML & CSS | HTML, CSS, Bootstrap, TailwindCSS |
 | **Tools** | 🟥 Git | Branching, PR workflow |
 | **React Ecosystem** | ⚛️ React | Hooks, Context API |
 | **Hands‑On Apps** | 📇 User Card • 📊 Sliders • 💰 Banking | CRUD, state management, RESTful APIs |
