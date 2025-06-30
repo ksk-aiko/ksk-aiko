@@ -22,7 +22,7 @@ I am studying computer science on an online learning site called **Recursion**. 
 | **Web Basics** | 🟦 HTML & CSS | HTML, CSS, Bootstrap, TailwindCSS |
 | **Tools** | 🟥 Git 🟦 Docker | Version control with Git/GitHub (commits, branches, PRs), build/run apps in Docker containers, write basic Dockerfiles and use Docker Compose |
 | **Frame Work** | ⚛️ React | useState, useEffect |
-| **Systems** | ⚙️ OS • 💻 ソフトウェア開発 | Computer architecture, memory management, CPU scheduling, file systems, development processes, software architecture |
+| **Systems** | ⚙️ OS • 💻 Software Development | Computer architecture, memory management, CPU scheduling, file systems, development processes, software architecture |
 | **Hands‑On Apps** | Please take a look at my repositories! ➡️  | [https://github.com/ksk-aiko?tab=repositories]
 
 > *Fun fact:* I like to reverse‑engineer everyday processes—everything from **pet store logistics** to **smart home setups**.
