@@ -20,7 +20,7 @@ I am studying computer science on an online learning site called **Recursion**. 
 | **Core CS** | 🟥 OOP • 🟦 Database | Object-oriented design, association and inheritance, abstract classes and interfaces, database systems, relational models, SQL(DDL, DML) |
 | **Design** | 🟧 Design Pattern | Dependency, factory methods, abstract factories, builders, prototypes |
 | **Web Basics** | 🟦 HTML & CSS | HTML, CSS, Bootstrap, TailwindCSS |
-| **Tools** | 🟥 Git | Branching, PR workflow |
+| **Tools** | 🟥 Git 🟦 Docker | Version control with Git/GitHub (commits, branches, PRs), build/run apps in Docker containers, write basic Dockerfiles and use Docker Compose |
 | **React Ecosystem** | ⚛️ React | Hooks, Context API |
 | **Hands‑On Apps** | 📇 User Card • 📊 Sliders • 💰 Banking | CRUD, state management, RESTful APIs |
 | **Utilities** | 📚 Library App • 🛠️ File Manipulator Program | File I/O, CLI utilities |
