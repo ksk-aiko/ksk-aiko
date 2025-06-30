@@ -21,8 +21,8 @@ I am studying computer science on an online learning site called **Recursion**. 
 | **Design** | 🟧 Design Pattern | Dependency, factory methods, abstract factories, builders, prototypes |
 | **Web Basics** | 🟦 HTML & CSS | HTML, CSS, Bootstrap, TailwindCSS |
 | **Tools** | 🟥 Git 🟦 Docker | Version control with Git/GitHub (commits, branches, PRs), build/run apps in Docker containers, write basic Dockerfiles and use Docker Compose |
-| **React Ecosystem** | ⚛️ React | Hooks, Context API |
-| **Hands‑On Apps** | 📇 User Card • 📊 Sliders • 💰 Banking | CRUD, state management, RESTful APIs |
+| **Frame Work** | ⚛️ React | useState, useEffect |
+| **Hands‑On Apps** | Please take a look at my repositories!➡️ [https://github.com/ksk-aiko?tab=repositories] |
 | **Utilities** | 📚 Library App • 🛠️ File Manipulator Program | File I/O, CLI utilities |
 | **Systems** | ⚙️ OS • 💻 ソフトウェア開発 | Process mgmt, memory, SDLC |
 
