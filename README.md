@@ -30,10 +30,8 @@ I am studying computer science on an online learning site called **Recursion**. 
 ---
 
 ### 🌱 Currently Learning
-- Advanced **React** patterns & performance optimization
-- **TypeScript** for safer code
-- **Operating Systems** internals (paging, scheduling)
-- Building projects with **TDD** & **CI/CD** pipelines
+- **Computer Networking**: building socket‑based client–server apps, mastering the 5‑layer Internet model, and crafting a custom RPC chat.
+- **API Practice**: a Book Search App that fetches data by title/ISBN with Promises & JSON.
 
 ---
 
@@ -57,8 +55,6 @@ I am studying computer science on an online learning site called **Recursion**. 
 ### 🤝 Let’s Connect
 | Platform | Link |
 | --- | --- |
-| 📧 Email | <keisuke.example@email.com> |
-| 💼 LinkedIn | https://www.linkedin.com/in/keisuke‑aiko |
 | 🐦 X/Twitter | https://twitter.com/ksk_aiko |
 
 <!--
